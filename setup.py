@@ -30,9 +30,9 @@ else:
     version = "%d.%d" % version_tuple[:2]
 
 setup(
-    name = "pymsql",
+    name = "pymysql",
     version = version,
-    url = 'https://github.com/pomack/pymsql/',
+    url = 'https://github.com/pomack/pymysql/',
     download_url = 'https://github.com/petehunt/PyMSQL/',
     author = 'yutaka.matsubara',
     author_email = 'yutaka.matsubara@gmail.com',

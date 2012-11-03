@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
-Name: pymsql
+Name: pymysql
 Version: 0.5
 Summary: Pure Python for MySQL driver
-Home-page: https://github.com/pomack/pymsql/
+Home-page: https://github.com/pomack/pymysql/
 Author: yutaka.matsubara
 Author-email: yutaka.matsubara@gmail.com
 Maintainer: Pete Hunt
